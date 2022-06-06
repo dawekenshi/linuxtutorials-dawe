@@ -139,5 +139,17 @@ a {
     justify-content: center;
 }
 
+.post1 {
+    text-decoration: underline;
+    display: flex;
+    margin-top: 100px;
+    margin-left: 50px;
+}
+
+.post1-p {
+    display: flex;
+    margin-top: 50px;
+    margin-left: 50px;
+}
 
 
