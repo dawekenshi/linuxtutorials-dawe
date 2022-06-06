@@ -134,5 +134,10 @@ a {
     border-color: green;
 }
 
+.email {
+    display: grid;
+    justify-content: center;
+}
+
 
 

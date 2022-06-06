@@ -15,7 +15,3 @@ function darkmode() {
     document.querySelector('.light-mode').style.background = "black";
     document.querySelector('.dark-mode').style.background = "black";
 }
-
-function spanish() {
-    
-}
