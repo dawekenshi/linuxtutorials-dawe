@@ -1,0 +1,97 @@
+body {
+    background-color: black;
+    color: green;
+    font-family: 'Press Start 2P', cursive;
+}
+
+.welcome {
+    display: grid;
+    justify-content: center;
+    padding-top: 50px;
+    text-decoration: underline;
+}
+
+.fire-peepo {
+    position: relative;
+    height: 200px;
+    width: 200px;
+    display: flex;
+    left: 1690px;    
+}
+
+.runescape-peepo {
+    position: absolute;
+    height: 200px;
+    width: 200px;
+    display: flex;
+    top: 40px;
+}
+
+.tekusuto {
+    display: grid;
+    justify-content: center;
+}
+
+.menu {
+    color: green;
+    background-color: black;
+    border-color: green;
+    height: 50px;
+    width: 100px;
+    display: flex;
+    margin-left: 840px;
+    margin-top: 60px;
+}
+
+.menu-redirect {
+    text-decoration: none;
+    height: 50px;
+    width: 100px;
+    margin-left: 840px;
+    margin-top: 60px;
+}
+
+.youtube, .mastodon, .github {
+    text-decoration: underline;
+    color: green;
+    
+}
+
+.youtube {
+    position: absolute;
+    left: 1100px;
+}
+
+.github {
+    position: absolute;
+    left: 640px;
+}
+
+.mastodon {
+    position: absolute;
+    left: 840px;
+}
+
+a:hover {
+    color: white;
+}
+
+a {
+    text-decoration: underline;
+    color: green;
+}
+
+.title-menu {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    margin-top: 60px;
+}
+
+
+.blog-menu, .tutorials-menu {
+    display: grid;
+    margin-top: 0px;
+    justify-content: center;
+    padding-top: 100px;
+}
