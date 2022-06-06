@@ -1,5 +1,5 @@
 body {
-    background-color: black;
+    background: black;
     color: green;
     font-family: 'Press Start 2P', cursive;
 }
@@ -110,6 +110,29 @@ a {
     text-decoration: underline;
 }
 
+.english {
+    background: black;
+    color: green;
+    border-color: green;
+}
+
+.dark-mode {
+    background: black;
+    color: green;
+    border-color: green;
+}
+
+.light-mode {
+    background: black;
+    color: green;
+    border-color: green;
+}
+
+.spanish {
+    background: black;
+    color: green;
+    border-color: green;
+}
 
 
 
